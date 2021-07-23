@@ -3,3 +3,4 @@ ipywidgets
 h5py
 lmfit
 spe_loader
+tdm_loader

@@ -2,5 +2,6 @@ plotly
 ipywidgets
 h5py
 lmfit
-spe_loader
+spe2py
 tdm_loader
+jupytext
